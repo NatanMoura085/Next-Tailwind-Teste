@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* arqivo.css */
+@layer utilities {
+  .bg-073B4C {
+    background-color: #073b4c;
+  }
+
+  .bg-blue-dark {
+    background-color: #073b4c;
+  }
+
+  .bg-button-color {
+    background-color: #ef476f;
+  }
+  .bg-EF476F {
+    background-color: #ef476f;
+  }
+}
